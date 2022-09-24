@@ -6,6 +6,9 @@ positius més grans que zero amb l'algorisme d'Euclides.
 
 Es calcula de la forma següent per
 */
+
+/**shared in git*/
+
 public class MCD {
 	/**
 	* Constructor de la classe.
